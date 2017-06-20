@@ -67,6 +67,21 @@
 ### Relational Story Arc
 
 ## Scenes
+1. Scene Name
+  * **Throughline**
+  * **Situation**
+  * **Activity**
+  * **Manipulation**
+  * **Fixed Attitude**
+  * **Arc Stage** # description 
+  * **Sign Post** # description
+    * **Judged By**
+      * one
+      * two 
+      * three
+      * four
+  * **Journey** # description
+    * **Sequence** # description
 
 
 
