@@ -50,15 +50,25 @@
 * Treatment
 
 #### Arc
-1. **Stasis** Fat & Normal
-2. **Trigger** Crisis
-3. **The quest** explore power
-4. **Surprise** Bad guys
-5. **Critical Choice** be super hero
-6. **Climax** big fight with bad guys
-7. **Reversal** lose power when skinny
-8. **Resolution** become fat again to be Super Hero
+1. **Stasis**
+2. **Trigger**
+3. **The quest**
+4. **Surprise**
+5. **Critical Choice**
+6. **Climax**
+7. **Reversal**
+8. **Resolution**
 
+#### Signposts
+1. one
+2. two
+3. three
+4. four
+
+#### Journeys
+1. one
+2. two
+3. three
 
 ### Overall Story Arc
 
